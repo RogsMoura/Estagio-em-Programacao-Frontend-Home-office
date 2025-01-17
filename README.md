@@ -4,7 +4,7 @@ Este projeto demonstra uma tela de login funcional com HTML, CSS e JavaScript, s
 
 ## Como Executar
 
-1.  Clone este repositório: `git clone <URL_do_repositorio>`
+1.  Clone este repositório: `git clone <https://github.com/RogsMoura/Estagio-em-Programacao-Frontend-Home-office>`
 2.  Abra o arquivo `index.html` no seu navegador.
 
 ## Funcionalidades
